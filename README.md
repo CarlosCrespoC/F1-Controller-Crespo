@@ -1,12 +1,7 @@
-# Simulador de F1TENTH para las competencias de vehiculos autonomos
-El simulador de F1TENTH para ROS 2 es un entorno de simulación diseñado para probar algoritmos de control, navegación y planificación en un vehículo autónomo a escala 1/10.
+# Proyecto del primer parcial, controlador para F1TENTH
 
-**Características del simulador F1TENTH en ROS 2**
-- Publica y suscribe tópicos en ROS 2, permitiendo interacción con sensores virtuales y actuadores del robot.
-- Simula sensores como LIDAR y odometría.
-- Compatible con algoritmos de navegación autónoma.
-- Permite el uso de 1 o 2 vehiculos simultaneamente.
 
-## 1. Instalacion del simulador
+**Repositorio con los archivos del controlador y el F1TENTH GYM para ROS 2 HUMBLE**
 
-#### 1.1. Instalacion de dependencias y simulador
+Controlador por medio de follow de gap
+- Uso y del LIDAR simulado para reconocimiento de obstaculos cercanos
