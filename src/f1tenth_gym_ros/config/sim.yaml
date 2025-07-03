@@ -42,7 +42,7 @@ bridge:
     scan_beams: 1080
 
     # map parameters
-    map_path: '/home/carlos/F1Tenth-Repository/src/f1tenth_gym_ros/maps/levineB'
+    map_path: '/home/carlos/F1Tenth-Repository/src/f1tenth_gym_ros/maps/Budapest_map'
     map_img_ext: '.png'
 
     # opponent parameters
