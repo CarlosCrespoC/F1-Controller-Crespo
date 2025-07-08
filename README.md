@@ -22,7 +22,7 @@ El sistema permite navegar de forma segura por un entorno con obstáculos, selec
 5. **Ajustar la velocidad** según la curvatura del giro y la cercanía de obstáculos.
 
 
-# Explicación detallada del archivo `controlador_carrera.py`
+# Explicación detallada del archivo `controller.py`
 
 Este archivo implementa un nodo en ROS 2 que permite el control autónomo de un vehículo tipo F1TENTH mediante un enfoque reactivo. Utiliza información del sensor LiDAR para tomar decisiones en tiempo real sobre la dirección y velocidad, y cuenta las vueltas que el vehículo completa en un circuito cerrado.
 
